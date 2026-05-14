@@ -1,0 +1,6 @@
+22:53:52.702 [TestNG-PoolService-0] DEBUG stepdefinations.A_Search - Window Maximized
+22:53:52.791 [TestNG-PoolService-2] DEBUG stepdefinations.A_Search - URL Launched
+22:53:52.840 [TestNG-PoolService-2] DEBUG stepdefinations.A_Search - Window Maximized
+22:57:20.991 [TestNG-PoolService-2] DEBUG stepdefinations.A_Search - Reached Method
+22:57:20.991 [TestNG-PoolService-0] DEBUG stepdefinations.A_Search - Reached Method
+22:57:21.014 [TestNG-PoolService-1] DEBUG stepdefinations.A_Search - Reached Method

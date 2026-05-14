@@ -1,0 +1,6 @@
+22:43:17.794 [TestNG-PoolService-0] DEBUG stepdefinations.A_Search - URL Launched
+22:43:17.990 [TestNG-PoolService-2] DEBUG stepdefinations.A_Search - URL Launched
+22:43:18.600 [TestNG-PoolService-1] DEBUG stepdefinations.A_Search - URL Launched
+22:43:18.668 [TestNG-PoolService-1] DEBUG stepdefinations.A_Search - Window Maximized
+22:43:18.851 [TestNG-PoolService-2] DEBUG stepdefinations.A_Search - Window Maximized
+22:43:18.949 [TestNG-PoolService-0] DEBUG stepdefinations.A_Search - Window Maximized
